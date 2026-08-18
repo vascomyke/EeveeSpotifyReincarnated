@@ -1,0 +1,34 @@
+{
+  "name": "EeveeSpotify Reincarnated",
+  "identifier": "com.vascomyke.eeveespotifyreincarnated",
+  "subtitle": "Patched Spotify builds",
+  "iconURL": "https://raw.githubusercontent.com/vascomyke/EeveeSpotifyReincarnated/Master/icon.png",
+  "website": "https://github.com/vascomyke/EeveeSpotifyReincarnated",
+  "tintColor": "#1DB954",
+  "apps": [
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "vascomyke",
+      "subtitle": "Spotify with patches",
+      "localizedDescription": "Longer description shown on the app's page in AltStore.",
+      "iconURL": "https://raw.githubusercontent.com/vascomyke/EeveeSpotifyReincarnated/Master/icon.png",
+      "tintColor": "#1DB954",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-08-18",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://github.com/vascomyke/EeveeSpotifyReincarnated/releases/download/v1.0.0/EeveeSpotify.ipa",
+          "size": 0,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": { "entitlements": [], "privacy": {} }
+    }
+  ],
+  "news": []
+}
